@@ -4,9 +4,6 @@
 
 You can view and manage this project from anywhere using:
 
-- **Clone Locally:** Use `git clone https://github.com/hijbullahx/IoTGenie.git` on any device with Git and Python installed.
-- **Cloud IDEs:** Open the repo in cloud-based editors like GitHub Codespaces, Gitpod, or VS Code for the Web for instant access and editing.
-- **Web Browser:** All documentation and code are accessible via browser—no special software required for viewing.
 
 This project is public and can be accessed from any device with an internet connection.
 
